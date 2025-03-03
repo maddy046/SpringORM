@@ -92,35 +92,6 @@ public class Main {
 
         }
 
-
-//            insert student information
-//        Student st = new Student();
-//        st.setStudentId(1);
-//        st.setStudentName("Almas");
-//        st.setCity("Burhanpur");
-//        int result = studentDao.insert(st);
-//        System.out.println("done" + result);
-
-//        // read one student
-//        Student student = studentDao.getStudentById(1);
-//        System.out.println(student);
-//
-//        //read all student
-//        List<Student> student1 = studentDao.getStudent();
-//        System.out.println(student1);
-
-        //delete by userid
-//        studentDao.deleteById(1);
-//        System.out.println("delete student successfully");
-
-        //update by id
-//        Student student = new Student();
-//        student.setStudentName("Maddy");
-//        student.setCity("Indore");
-//        String s = studentDao.updateById(1, student);
-//        System.out.println(s);
-
-
     }
 
 }
